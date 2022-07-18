@@ -1,0 +1,34 @@
+[
+  {
+    "model": "books.book",
+    "fields": {
+      "name": "Война и мир",
+      "author": "Ф.Д. Достоевский",
+      "pub_date": "2018-02-27"
+    }
+  },
+  {
+    "model": "books.book",
+    "fields": {
+      "name": "1984",
+      "author": "Джордж Оруэл",
+      "pub_date": "2016-12-06"
+    }
+  },
+  {
+    "model": "books.book",
+    "fields": {
+      "name": "Скотный двор",
+      "author": "Джордж Оруэл",
+      "pub_date": "2018-09-21"
+    }
+  },
+  {
+    "model": "books.book",
+    "fields": {
+      "name": "В память о прошлом земли",
+      "author": "Лю Цысинь",
+      "pub_date": "2018-09-21"
+    }
+  }
+]
